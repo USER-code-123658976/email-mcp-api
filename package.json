@@ -5,6 +5,9 @@
   "dependencies": {
     "nodemailer": "^6.9.0",
     "imapflow": "^1.0.0",
-    "mailparser": "^3.7.1"
+    "mailparser": "^3.7.1",
+    "mcp-handler": "^2.0.0",
+    "@modelcontextprotocol/server": "^2.0.0",
+    "zod": "^4.0.0"
   }
 }
